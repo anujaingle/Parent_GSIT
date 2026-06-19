@@ -1,3 +1,9 @@
 [submodule "Child"]
 	path = Child
 	url = https://github.com/anujaingle/Child_GSIT.git
+[submodule "Child_GSIT"]
+	path = Child_GSIT
+	url = https://github.com/anujaingle/Child_GSIT.git
+[submodule "Child"]
+	path = Child
+	url = https://github.com/anujaingle/Child_GSIT.git
